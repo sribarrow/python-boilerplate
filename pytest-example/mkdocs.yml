@@ -1,0 +1,10 @@
+site_name: pytest-example
+site_description: example project
+site_author: Sri Barrow
+
+theme: readthedocs
+
+repo_url: https://github.com/sribarrow/pytest-example
+
+pages:
+- Home: index.md
